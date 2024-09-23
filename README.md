@@ -11,5 +11,6 @@ Welcome to the **Clothing Brand Homepage** project! This repository contains the
 
 ## 🌐 Live Demo
 
-Check out the live version of the homepage on Vercel: [https://clothing-landing-page-alpha.vercel.app/](#)
+Check out the live version of the homepage on Vercel: [Clothing Brand Homepage](https://clothing-landing-page-alpha.vercel.app/)
+
 
